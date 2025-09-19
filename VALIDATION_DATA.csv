@@ -1,0 +1,4 @@
+date,campaign_id,campaign_name,traffic_source_id,feed_id,total_searches,monetized_searches,paid_clicks,net_revenue
+2025-01-15,101,US_Search_Mobile_1,66,SB100,9658,7726,214,55.02
+2025-01-15,102,US_Search_Desktop_1,66,SB100,5762,4610,128,32.80
+2025-01-15,103,UK_Search_Mobile_1,67,SB101,8931,7145,185,47.76
