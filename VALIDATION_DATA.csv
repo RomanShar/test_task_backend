@@ -1,0 +1,17 @@
+date,campaign_id,campaign_name,traffic_source_id,feed_id,total_searches,monetized_searches,paid_clicks,net_revenue,notes
+2025-01-15,101,US_Search_Mobile_1,66,SB100,9658,7726,214,55.0200,Normal case
+2025-01-15,102,US_Search_Desktop_1,66,SB100,5762,4610,128,32.7950,Normal case
+2025-01-16,101,US_Search_Mobile_1,66,SB100,10999,8799,249,66.7558,Normal case
+2025-01-16,102,US_Search_Desktop_1,66,SB100,7235,5788,163,43.9022,Normal case
+2025-01-16,22,Test_Campaign_22,66,SB200,1875,1500,37,10.5000,Three campaigns case
+2025-01-16,33,Test_Campaign_33,66,SB200,3125,2500,63,17.5000,Three campaigns case
+2025-01-16,44,Test_Campaign_44,66,SB200,5000,4000,100,28.0000,Three campaigns case
+2025-01-17,101,US_Search_Mobile_1,66,SB100,10409,8327,235,62.4857,Normal case
+2025-01-17,102,US_Search_Desktop_1,66,SB100,6380,5104,143,38.2793,Normal case
+2025-01-18,101,US_Search_Mobile_1,66,SB100,7773,6218,162,48.3565,Normal case
+2025-01-18,102,US_Search_Desktop_1,66,SB100,6552,5242,136,40.7485,Normal case
+2025-01-18,116,US_Search_Case_Test,66,SB100,500,400,10,2.9390,Case test
+2025-01-19,101,US_Search_Mobile_1,66,SB100,10564,8451,235,69.9735,Normal case
+2025-01-19,102,US_Search_Desktop_1,66,SB100,7326,5861,163,48.4935,Normal case
+2025-01-20,101,US_Search_Mobile_1,66,SB100,11174,8939,258,77.5957,Normal case
+2025-01-20,102,US_Search_Desktop_1,66,SB100,8060,6448,187,55.9943,Normal case
